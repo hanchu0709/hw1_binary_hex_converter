@@ -9,8 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Compile
-        run: g++ HW1_binary_hex_converter/src/main.cpp -o main
-      - name: Compile 
-        run: g++ HW1_binary_hex_converter/src/mainwindow.cpp -o main
+        run: g++ HW1_binary_hex_converter/src/main.cpp HW1_binary_hex_converter/src/mainwindow.cpp -o main
       - name: Run
         run: ./main
