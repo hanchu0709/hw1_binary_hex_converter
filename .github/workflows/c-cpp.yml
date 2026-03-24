@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Complie
-        run: g++ main.cpp -o main
+        run: g++ .cpp -o main
       - name: Run
         run: ./main
