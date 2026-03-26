@@ -1,5 +1,0 @@
-Binary:   [ QLineEdit → binInput ]
-Decimal:  [ QLineEdit → decInput ]
-Hex:      [ QLineEdit → hexInput ]
-
-[ QPushButton → convertButton ]
