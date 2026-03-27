@@ -7,30 +7,30 @@
 
 # 結果呈現
 _初始視窗_
-    ![顯示視窗](hw1_binary_hex_converter\result_image\converter_window.png)
+    ![顯示視窗](HW1_binary_hex_converter\result_image\converter_window.png)
 _二進位輸入與結果顯示_
-    ![二進位輸入範例](hw1_binary_hex_converter\result_image\binary_input1.png)
-    ![結果顯示視窗](hw1_binary_hex_converter\result_image\outcome1.png)
+    ![二進位輸入範例](HW1_binary_hex_converter\result_image\binary_input1.png)
+    ![結果顯示視窗](HW1_binary_hex_converter\result_image\outcome1.png)
 
 _十進位輸入與結果顯示_
-    ![十進位輸入範例](hw1_binary_hex_converter\result_image\decimal_input2.png)
-    ![結果顯示視窗](hw1_binary_hex_converter\result_image\outcome2.png)
+    ![十進位輸入範例](HW1_binary_hex_converter\result_image\decimal_input2.png)
+    ![結果顯示視窗](HW1_binary_hex_converter\result_image\outcome2.png)
 
 _十六進位輸入與結果顯示_
-    ![十六進位輸入範例](hw1_binary_hex_converter\result_image\hexadecimal_input3.png)
-    ![結果顯示視窗](hw1_binary_hex_converter\result_image\outcome3.png)
+    ![十六進位輸入範例](HW1_binary_hex_converter\result_image\hexadecimal_input3.png)
+    ![結果顯示視窗](HW1_binary_hex_converter\result_image\outcome3.png)
 
 _大於255的輸入與結果顯示_
-    ![輸入範例](hw1_binary_hex_converter\result_image\more_than_255_input4.png)
-    ![結果顯示視窗](hw1_binary_hex_converter\result_image\outcome4.png)
+    ![輸入範例](HW1_binary_hex_converter\result_image\more_than_255_input4.png)
+    ![結果顯示視窗](HW1_binary_hex_converter\result_image\outcome4.png)
 
 _錯誤的輸入與結果顯示_
     **二進位錯誤輸入**
-            ![二進位錯誤輸入](hw1_binary_hex_converter\result_image\binary_error_input.png)
-            ![結果顯示視窗](hw1_binary_hex_converter\result_image\error_report_binary.png)
+            ![二進位錯誤輸入](HW1_binary_hex_converter\result_image\binary_error_input.png)
+            ![結果顯示視窗](HW1_binary_hex_converter\result_image\error_report_binary.png)
     **十進位錯誤輸入**
-            ![十進位錯誤輸入](hw1_binary_hex_converter\result_image\decimal_error_input.png)
-            ![結果顯示視窗](hw1_binary_hex_converter\result_image\error_report_decimal.png)
+            ![十進位錯誤輸入](HW1_binary_hex_converter\result_image\decimal_error_input.png)
+            ![結果顯示視窗](HW1_binary_hex_converter\result_image\error_report_decimal.png)
     **十六進位錯誤輸入**
-            ![十六進位錯誤輸入](hw1_binary_hex_converter\result_image\hexadecimal_error_input.png)
-            ![結果顯示視窗](hw1_binary_hex_converter\result_image\error_report_hexadecimal.png)
+            ![十六進位錯誤輸入](HW1_binary_hex_converter\result_image\hexadecimal_error_input.png)
+            ![結果顯示視窗](HW1_binary_hex_converter\result_image\error_report_hexadecimal.png)
