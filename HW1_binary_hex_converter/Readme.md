@@ -31,13 +31,16 @@ _大於255的輸入與結果顯示_
     ![結果顯示視窗](result_image/outcome4.png)
 
 
-_錯誤的輸入與結果顯示_ \n
-    **二進位錯誤輸入**
-        ![二進位錯誤輸入](result_image/binary_error_input.png)
-        ![結果顯示視窗](result_image/error_report_binary.png)
-    **十進位錯誤輸入**
-        ![十進位錯誤輸入](result_image/decimal_error_input.png)
-        ![結果顯示視窗](result_image/error_report_decimal.png)
-    **十六進位錯誤輸入**
-        ![十六進位錯誤輸入](result_image/hexadecimal_error_input.png)
-        ![結果顯示視窗](result_image/error_report_hexadecimal.png)
+*錯誤的輸入與結果顯示*
+
+**二進位錯誤輸入**
+    ![二進位錯誤輸入](result_image/binary_error_input.png)
+    ![結果顯示視窗](result_image/error_report_binary.png)
+
+**十進位錯誤輸入**
+    ![十進位錯誤輸入](result_image/decimal_error_input.png)
+    ![結果顯示視窗](result_image/error_report_decimal.png)
+
+**十六進位錯誤輸入**
+    ![十六進位錯誤輸入](result_image/hexadecimal_error_input.png)
+    ![結果顯示視窗](result_image/error_report_hexadecimal.png)
